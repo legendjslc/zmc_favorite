@@ -19,3 +19,10 @@ Dagster is built to be used at every stage of the data development lifecycle - l
 
 Data Management Platform
 Girder is a free and open source web-based data management platform developed by Kitware as part of the Resonant data and analytics ecosystem.
+
+#[ GeoJS](https://github.com/OpenGeoscience/geojs)
+GeoJS is intended to bridge the gap between GIS,Scientific Visualization, and Infovis. GeoJS is more than just a GIS library as users can create scientific plots such as vector and contour and can embed infovis plots using D3.js. GeoJS aims for high-performance visualization and interactive data exploration of scientific and geospatial location aware datasets.
+
+GeoJS supports features such as Point, Line, Polygon, and advanced features such as Pixelmap, Contour, Heatmap, and Choropleth.
+
+GeoJS can read and render data from GeoJSON files, and WMS servers. Additional features includes Annotations, Legends, Animated Transitions, and Widgets.
