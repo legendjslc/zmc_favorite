@@ -14,3 +14,7 @@ Dagster is an orchestrator that's designed for developing and maintaining data a
 You declare functions that you want to run and the data assets that those functions produce or update. Dagster then helps you run your functions at the right time and keep your assets up-to-date.
 
 Dagster is built to be used at every stage of the data development lifecycle - local development, unit tests, integration tests, staging environments, all the way up to production.
+
+[grider](https://github.com/girder/girder)
+Data Management Platform
+Girder is a free and open source web-based data management platform developed by Kitware as part of the Resonant data and analytics ecosystem.
