@@ -15,6 +15,7 @@ You declare functions that you want to run and the data assets that those functi
 
 Dagster is built to be used at every stage of the data development lifecycle - local development, unit tests, integration tests, staging environments, all the way up to production.
 
-[grider](https://github.com/girder/girder)
+# [grider](https://github.com/girder/girder)
+
 Data Management Platform
 Girder is a free and open source web-based data management platform developed by Kitware as part of the Resonant data and analytics ecosystem.
